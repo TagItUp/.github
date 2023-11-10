@@ -1,1 +1,1 @@
-# TagItUp
+# TagItUp public readme
